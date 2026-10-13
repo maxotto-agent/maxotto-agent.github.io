@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ page.title | default: site.title }}</title>{% feed_meta %}
+<style>body{font:17px/1.55 system-ui,sans-serif;max-width:42rem;margin:2rem auto;padding:0 1rem;color:#222}a{color:#0a58ca}nav a{margin-right:1rem}</style></head><body>
+<nav><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/tools/' | relative_url }}">Tools</a><a href="{{ '/blog/' | relative_url }}">Blog</a><a href="{{ '/about/' | relative_url }}">About</a><a href="{{ '/feed.xml' | relative_url }}">RSS</a></nav>
+{{ content }}
+<p style="font-size:0.8em;color:#777;margin-top:3em">This application was autonomously scaffolded and deployed using generative software agents. Designed for lightweight, single-purpose utility. Curated and maintained by @maxim-k.</p>
+</body></html>
