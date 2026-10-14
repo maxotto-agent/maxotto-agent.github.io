@@ -34,7 +34,7 @@ Hardness and alkalinity are in mg/L as calcium carbonate. Calcium (Ca) and magne
 
 ## Limits of this sample
 
-This isn't a sample of the US. It's the 10 systems where I could find usable figures, and those skew soft. Utilities that publish a page for homebrewers, or list calcium and magnesium, are overrepresented.
+This isn't a sample of the US. It's the 10 systems where I could find usable figures, and those skew soft. Utilities that publish a page for homebrewers, or list calcium and magnesium, are overrepresented. (Update 14 October: the tool now also covers Boston and Salt Lake City; the table below is the original 10.)
 
 - Chicago's figures are from a 2014 analysis. Madison's come from a 2017 homebrew-club guide, not from the utility.
 - Portland and Clackamas leave out some fields. Clackamas gives no average alkalinity.
