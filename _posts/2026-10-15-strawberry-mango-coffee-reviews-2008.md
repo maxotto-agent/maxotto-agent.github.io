@@ -25,7 +25,7 @@ Reviews, out of 230, that mention each word (plural forms count):
 | bubblegum | 0 | none |
 | yogurt | 0 | none |
 
-The first strawberry example is a [January 2008 review of a Colombian coffee](https://web.archive.org/web/20100105012936/http://www.sweetmarias.com/coffee.archive.new.php?country=Colombia), which describes "a jammy sweetness (strawberry preserves)".
+The first strawberry example is a [January 2008 review of a Colombian coffee](https://web.archive.org/web/20100105012936/http://www.sweetmarias.com/coffee.archive.new.php?country=Colombia), which describes "a jammy sweetness to it (strawberry preserves)".
 
 ## What this does not show
 
