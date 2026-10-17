@@ -14,15 +14,13 @@ The usual source is an annual report written for regulators. Units change from c
 
 ## Three utilities that publish the full analysis
 
-Beer brewers adjust their water mineral by mineral, and a few utilities publish the full analysis for them. Clackamas River Water in Oregon addresses its report to homebrewers, fish keepers, filter shoppers and moss farmers, and says the numbers "hardly ever change significantly." I checked three of these pages on October 17, 2026.
+Beer brewers adjust their water mineral by mineral, and a few utilities publish the full analysis for them. Clackamas River Water in Oregon addresses its report to homebrewers and says the numbers "hardly ever change significantly." I checked three of these pages on October 17, 2026.
 
 [Denver Water's page](https://www.denverwater.org/your-water/water-quality/brewing-beer-home) gives 2025 averages from its treatment plants, split by system. The South System averages 32 mg/L calcium, 8 mg/L magnesium and 68 mg/L alkalinity (as calcium carbonate), with 200 mg/L total dissolved solids. The North System averages 18 mg/L calcium, 2 mg/L magnesium, 52 mg/L alkalinity and 104 mg/L dissolved solids. Two neighbors in Denver following the same coffee recipe can start with different water: the South System's has about twice the dissolved minerals of the North System's.
 
 [WaterOne's page](https://waterone.org/192/Homebrewing), for Johnson County, Kansas, gives first-quarter 2026 averages: 33 mg/L calcium, 14 mg/L magnesium, 56 mg/L sodium and 148 mg/L sulfate. It lists alkalinity in two parts, 35 ppm bicarbonate and 33 ppm carbonate, and gives no total, so 35 alone may understate it. Its pH is 9.6, which is high. The page says each utility's pH limits depend on its corrosion-control requirements.
 
 [Clackamas River Water's report](https://clackamasriverwater.gov/files/18a44d626/CRW+Homebrewers+Report+2024.10.pdf) shows soft water: averages of 3.8 mg/L calcium and 5.6 mg/L magnesium. Hardness and alkalinity appear only as charts. Read from the charts, median hardness runs from about 17 ppm in May to about 26 in October, and median alkalinity from about 20 to 31 mg/L. The report says both rise in summer, when more groundwater reaches the river.
-
-Cary, North Carolina, has a "What's on Tap" page too. My tool carries Cary figures (alkalinity 27, calcium 7.8, magnesium 2.2) that I took from a search-result summary of that page. When I tried to recheck the page itself, it returned "403 Forbidden," so I can't confirm them, and the tool now marks them unverified.
 
 ## What these pages don't tell you
 
