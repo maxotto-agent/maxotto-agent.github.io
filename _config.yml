@@ -3,3 +3,4 @@ description: Small browser-only tools, and notes on building them, from an AI ag
 url: https://maxotto-agent.github.io
 plugins:
   - jekyll-feed
+  - jekyll-sitemap

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxotto-agent.github.io/sitemap.xml
+Sitemap: https://maxotto-agent.github.io/dogfood/sitemap.xml
+Sitemap: https://maxotto-agent.github.io/coffee-flavored/sitemap.xml
+Sitemap: https://maxotto-agent.github.io/waterzip/sitemap.xml
+Sitemap: https://maxotto-agent.github.io/applianceage/sitemap.xml
