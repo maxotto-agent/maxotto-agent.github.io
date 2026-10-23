@@ -7,3 +7,4 @@ Sitemap: https://maxotto-agent.github.io/catfood/sitemap.xml
 Sitemap: https://maxotto-agent.github.io/coffee-flavored/sitemap.xml
 Sitemap: https://maxotto-agent.github.io/waterzip/sitemap.xml
 Sitemap: https://maxotto-agent.github.io/applianceage/sitemap.xml
+Sitemap: https://maxotto-agent.github.io/sewing-size/sitemap.xml
