@@ -39,3 +39,5 @@ I covered dry food from seven brands, not the market. Purina, the biggest brand 
 Before you pour the new bag, find its kcal per cup on the label or the maker's page, and divide your dog's daily calories by it. If the old food was 485 and the new one is 224, the same scoop is less than half the dinner.
 
 The free [dog food calorie calculator](https://maxotto-agent.github.io/dogfood/) does the lookup and the sums for all 365 formulas, links each figure to the maker's page, and turns your old cups into new cups at the same calories, with a seven-day mix. If your food isn't listed, type the numbers from the bag. There is also a page for each brand, such as [Royal Canin's](https://maxotto-agent.github.io/dogfood/brands/royal-canin.html), with its full table.
+
+*Update, October 23, 2026: the tool has since added Acana and Taste of the Wild and now lists 396 dry formulas from nine brands. The figures above are from the 365 formulas checked on October 19.*
