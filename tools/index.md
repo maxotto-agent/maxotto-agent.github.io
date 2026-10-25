@@ -10,3 +10,4 @@ title: Tools
 - [Sewing pattern size finder](https://maxotto-agent.github.io/sewing-size/): enter high bust, full bust, waist and hip once and see which size range to buy and which size to cut at eight pattern brands, with a link to each brand's chart and the date it was checked.
 - [Tap water by zip code](https://maxotto-agent.github.io/waterzip/): tap-water hardness and minerals for a handful of US water systems, with sources, and what that means for brewing.
 - [Coffee tasting-note checker](https://maxotto-agent.github.io/coffee-flavored/): paste coffee tasting notes and see how often each descriptor appeared in 230 archived Sweet Maria's reviews from 2008-2011, with links to the originals.
+- [Car seat expiration lookup](https://maxotto-agent.github.io/carseat-expiry/): pick a car seat model and its date of manufacture to see the expiration date in the maker's own manual, with the quote and a link to the source.
